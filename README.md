@@ -2,7 +2,8 @@
 
 Have you ever wondered what's hot in the current gaming world and which genres are making waves? As a video game enthusiast, I wanted to explore the popularity and I'm wondering whether professional critics' ratings correlate with sales.
 With open data from Kaggle, I conducted a comprehensive analysis of each publisher's performance across various classic gaming categories, examining metrics including critic scores, sales figures, and the number of games published.
-View lanjing0803.github.io/da3.html for details.
+
+[Visit Project](lanjing0803.github.io/da3.html)
 
 ## Description
 
